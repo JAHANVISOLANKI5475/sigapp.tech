@@ -1,2 +1,2 @@
-## SRMIST-SIGAPP Website
-[ ] - Fix the domain name!
+ SRMIST-SIGAPP Website
+
