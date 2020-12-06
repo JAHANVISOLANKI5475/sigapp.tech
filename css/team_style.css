@@ -279,7 +279,7 @@ img{
   color: black;
 }
 #ayu:hover {
-    content: url('ay.png');
+    content: url('../imgs/ay.png');
 }
 .darkmode--activated button, .darkmode--activated .as-heading{
   color: #000;
@@ -302,7 +302,7 @@ img{
   height: 420px;
   width:420px;
 bottom: 120px;
-content: url("c.png");
+content: url("../imgs/c.png")
 }
 /* .darkmode--activated .navbar-brand{
 content: url("logo2.jpeg");
